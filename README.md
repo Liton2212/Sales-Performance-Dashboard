@@ -1,9 +1,11 @@
 # 📊 Sales Performance & Business Intelligence Dashboard
 
+
 ## 1. Project Overview
 This project focuses on analyzing sales team performance using Microsoft Excel. An interactive Sales Performance Dashboard was developed to monitor key performance indicators (KPIs), evaluate individual sales performance, and analyze monthly sales trends. The dashboard provides a clear visual representation of sales activities and business performance to support data-driven decision-making.
 
 ---
+![Full Sales Performance Dashboard](Sales%20Performance%20Dashboard/02_Dashboard_Screenshot/01.%20Full%20Dashboard/01.%20Full%20Dashboard.png)
 
 ## 2. Dashboard Previews
 
@@ -52,4 +54,3 @@ This project focuses on analyzing sales team performance using Microsoft Excel. 
 * `03_Project_Documentation` – Detailed PDF report (`Project_Description.pdf`)[cite: 3]
 * `04_Dataset` – Raw dataset used for analysis (`Data set .xlsx`)[cite: 3]# Sales-Performance-Dashboard
 Interactive Excel dashboard analyzing sales team performance, monthly trends, and division service levels across 18,300 calls, 1,309 closed deals, and $706.2K deal value using Pivot Tables, slicers, and KPI cards.
-![Full Sales Performance Dashboard](Sales%20Performance%20Dashboard/02_Dashboard_Screenshot/01.%20Full%20Dashboard/01.%20Full%20Dashboard.png)
